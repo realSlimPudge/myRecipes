@@ -1,6 +1,7 @@
 <template>
     <div>
-        <HomeWidget />
+        <HomeSection />
+        <DescriptionsSection />
     </div>
 </template>
 
